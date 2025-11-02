@@ -9,11 +9,12 @@ export default function Hero() {
             <p>I am a Software Developer</p>
         </div>
         <div className="hero-right">
-            <img src="../src/assets/myphoto.jpg" alt="my photo" />
+            <img src="./my_photo.jpg" alt="my photo" />
         </div>
       </section>
     </>
   );
 }
+
 
 
